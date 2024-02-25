@@ -13,11 +13,11 @@ The game includes:
 
 ## Accessing Large Files
 
-Due to GitHub limitations, some larger files couldn't be uploaded directly to this repository. You can download the missing files from the following Google Drive link:
+Due to GitHub limitations, some larger files couldn't be uploaded directly to this repository. You can download the game from the following Google Drive link:
 
 [Download Game Assets](https://drive.google.com/drive/folders/1WAaIQ37oWNX8MJXj6ym4yrJD4RVzsHiL?usp=drive_link)
 
-Please note that this Google Drive link contains the additional files needed for the game to run smoothly.
+Please note that this Google Drive link contains the full game.
 
 ## Contributions
 
